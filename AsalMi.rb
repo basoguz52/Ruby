@@ -1,3 +1,4 @@
+##Sadece kendine ve bire bölünebilen sayılara asal sayı denir.
 def asalmi (sayı)
 
     if sayı > 1
